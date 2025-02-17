@@ -1,0 +1,23 @@
+.btn-primary-new {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+}
+a{
+    color: #582aff;
+    text-decoration:none;
+}
+table {
+    width: 100%;
+    border-collapse: collapse; /* Collapse borders */
+  }
+  
+  th, td {
+    border: 1px solid #ccc; 
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2; 
+  }
